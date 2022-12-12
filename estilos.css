@@ -1,0 +1,68 @@
+body{
+	font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+#contenedor {
+  width: 100%;
+  margin:  auto;
+ 
+}
+#cabecera {
+background-color: rgb(109, 109, 216);
+font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+#menu {
+  float: right;
+  width: 100%;
+  height: auto;
+  background-color: #f77474;	
+  margin:auto;
+}
+ul,ol {
+  list-style: none;
+  float: right;
+  margin-right: 5px;
+}
+
+.nav li a {background-color: black;
+color:white;
+text-decoration: none;
+padding: 10px 15px;
+display: block  ;
+} 
+.nav li a:hover {
+  background-color: rgb(151, 130, 104);
+}
+.nav > li {
+
+  float: left;
+}
+.nav li ul{
+  display: none;
+  position: absolute;
+  min-width: 140px;
+}
+.nav li:hover > ul {display:block;}
+#contenido {
+  float: left;
+  width: 100%;
+background-color: rgb(136, 136, 89);
+
+}
+#pie {
+  text-align:center;
+  clear: both;
+  background-color: rgb(55, 100, 55);
+  
+
+}
+
+.natacion {
+	position:absolute;
+  float:right;
+}
+.imghockey{
+  size:10px;
+}
+
