@@ -8,7 +8,7 @@ body{
  
 }
 #cabecera {
-background-color: rgb(109, 109, 216);
+background-color: rgba(241, 240, 181, 0.774);
 font-family:Georgia, 'Times New Roman', Times, serif
 
 }
@@ -16,7 +16,7 @@ font-family:Georgia, 'Times New Roman', Times, serif
   float: right;
   width: 100%;
   height: auto;
-  background-color: #f77474;	
+  background-color: #f8adad;	
   margin:auto;
 }
 ul,ol {
@@ -47,13 +47,13 @@ display: block  ;
 #contenido {
   float: left;
   width: 100%;
-background-color: rgb(136, 136, 89);
+background-color: rgb(166, 255, 203);
 
 }
 #pie {
   text-align:center;
   clear: both;
-  background-color: rgb(55, 100, 55);
+  background-color: rgb(189, 115, 223);
   
 
 }
